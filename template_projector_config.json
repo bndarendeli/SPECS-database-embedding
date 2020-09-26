@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "SPECS-database-embedding",
+      "tensorShape": [
+        10000,
+        300
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/bndarendeli/SPECS1.tsv.rar",
+      "metadataPath": "https://raw.githubusercontent.com/bndarendeli/SPECS1-label.tsv"
+      "bookmarksPath": "https://raw.githubusercontent.com/bndarendeli/bookmarks.txt"
+    }
+  ]
+}
